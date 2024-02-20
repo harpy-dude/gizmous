@@ -1,5 +1,5 @@
 # Gizmous
-Gizmous is a minecraft-like 3d factory building game bulid on ursina engine with first party modding support.
+Gizmous is a minecraft-like 3d factory building game build on Ursina engine with first party modding support.
 Discord:
 [https://discord.gg/NKX5949EmU]
 
